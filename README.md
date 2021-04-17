@@ -17,7 +17,7 @@ git clone https://github.com/thugs-defi/swap-sdk.git
 Move into the uniswap-sdk working directory
 
 ```sh
-cd bscswap-sdk/
+cd ftm-sdk/
 ```
 
 Install dependencies

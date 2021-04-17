@@ -1,14 +1,14 @@
 {
-  "name": "@thugs-defi/sdk",
+  "name": "@thugs-defi/ftm-sdk",
   "license": "MIT",
   "version": "0.0.2",
-  "description": "🛠 An SDK for building applications on top of thugswap.",
+  "description": "🛠 An SDK for building applications on top of hyperswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/thugs-defi/swap-sdk.git",
+  "repository": "https://github.com/HyperJump-DeFi/ftm-sdk.git",
   "keywords": [
     "thugs-defi",
     "binance"
