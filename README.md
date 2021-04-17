@@ -1,6 +1,6 @@
-# Thugswap SDK
+# Hyperswap SDK
 
-Common library used accross for Thugswap Frontend implementation [https://github.com/thugs-defi/swap-interface](https://github.com/thugs-defi/swap-interface).
+Common library used accross for Hyperswap Frontend implementation [https://github.com/thugs-defi/swap-interface](https://github.com/thugs-defi/swap-interface).
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
