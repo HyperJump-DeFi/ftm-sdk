@@ -81,5 +81,5 @@ export const WETH = {
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.KOVAN]: new Token(ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.FTM_MAINNET]: new Token(ChainId.FTM_MAINNET, '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83', 18, 'WFTM', 'Wrapped FTM'),
-  [ChainId.FTM_TESTNET]: new Token(ChainId.FTM_TESTNET, '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd', 18, 'WFTM', 'Wrapped FTM')
+  [ChainId.FTM_TESTNET]: new Token(ChainId.FTM_TESTNET, '0xf55E5E303A553bcDb56a31dD301Cb3381DC1C076', 18, 'WFTM', 'Wrapped FTM')
 }

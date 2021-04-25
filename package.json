@@ -1,7 +1,7 @@
 {
   "name": "@thugs-defi/ftm-sdk",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "🛠 An SDK for building applications on top of hyperswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
